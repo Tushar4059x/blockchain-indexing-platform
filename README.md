@@ -45,7 +45,7 @@ SOLANA_RPC_URL="https://api.devnet.solana.com"
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/blockchain-indexing.git
+git clone https://github.com/Tushar4059x/blockchain-indexing.git
 cd blockchain-indexing
 ```
 
